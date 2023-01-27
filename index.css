@@ -1,0 +1,43 @@
+/*  Studio 8 green #bcd8b7 */
+
+html {
+    background-color: #bcd8b7;
+    margin: 0;
+    padding: 0;
+    background-image: url(https://www.studio8wv.com/s/img/background.gif?1662021062);
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-position: center top;
+    background-size: auto;
+}
+
+/* body  {
+    background-image: url(https://www.studio8wv.com/s/img/background.gif?1662021062);
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-position: center top;
+    background-size: auto;
+} */
+
+.navigation-container {
+    background-color: #131612;
+    color: white;
+    font-family: Helvetica, 'Helvetica Neue', 'Trebuchet MS', sans-serif;
+    font-style: normal;
+    font-size: 14px;
+    font-weight: normal;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    padding-top: 0px;
+    margin-top: 25px;
+    margin-left: 250px;
+    margin-right: 250px;
+    border-bottom: 1px solid #444642;
+}
+
+.navigation-logo img {
+    height: 200px;
+}
+
